@@ -1,0 +1,5 @@
+# sudo pip install -r requirements.txt
+
+pip>=20.1
+requests>=2.22.0
+bs4>=0.0.1
